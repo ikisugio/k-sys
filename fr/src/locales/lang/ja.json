@@ -1,0 +1,136 @@
+{
+    "nav": {
+        "apps": "アプリ",
+        "appsProject": {
+            "project": "管理メモ",
+            "dashboard": "ダッシュボード",
+            "projectList": "プロジェクトリスト",
+            "scrumBoard": "スクラムボード",
+            "issue": "課題"
+        },
+        "appsCrm": {
+            "crm": "セミナー報告",
+            "dashboard": "ダッシュボード",
+            "calendar": "カレンダー",
+            "customers": "顧客",
+            "customerDetails": "顧客詳細",
+            "mail": "メール"
+        },
+        "appsSales": {
+            "sales": "事業所システム",
+            "dashboard": "ダッシュボード",
+            "productList": "検索システム",
+            "productEdit": "＿事業所編集",
+            "productNew": "＿事業所追加",
+            "orderList": "訪問メモ一覧",
+            "orderDetails": "＿訪問メモ詳細"
+        },
+        "appsCrypto": {
+            "crypto": "会計",
+            "dashboard": "ダッシュボード",
+            "portfolio": "ポートフォリオ",
+            "market": "マーケット",
+            "wallets": "ウォレット"
+        },
+        "appsknowledgeBase": {
+            "knowledgeBase": "回覧",
+            "helpCenter": "ヘルプセンター",
+            "article": "記事",
+            "manageArticles": "記事管理",
+            "editArticle": "記事編集"
+        },
+        "appsAccount": {
+            "account": "アカウント",
+            "settings": "設定",
+            "invoice": "請求書",
+            "activityLog": "アクティビティログ",
+            "kycForm": "KYCフォーム"
+        },
+        "uiComponents": "UIコンポーネント",
+        "uiComponentsCommon": {
+            "common": "一般",
+            "button": "ボタン",
+            "typography": "タイポグラフィ",
+            "icons": "アイコン"
+        },
+        "uiComponentsFeeback": {
+            "feedback": "フィードバック",
+            "alert": "アラート",
+            "dialog": "ダイアログ",
+            "drawer": "ドロワー",
+            "progress": "進行状況",
+            "skeleton": "スケルトン",
+            "spinner": "スピナー",
+            "toast": "トースト"
+        },
+        "uiComponentsDataDisplay": {
+            "dataDisplay": "データ表示",
+            "avatar": "アバター",
+            "badge": "バッジ",
+            "calendar": "カレンダー",
+            "cards": "カード",
+            "table": "テーブル",
+            "tag": "タグ",
+            "timeline": "タイムライン",
+            "tooltip": "ツールチップ"
+        },
+        "uiComponentsForms": {
+            "forms": "フォーム",
+            "checkbox": "チェックボックス",
+            "datePicker": "日付ピッカー",
+            "formControl": "フォームコントロール",
+            "input": "入力",
+            "inputGroup": "入力グループ",
+            "radio": "ラジオ",
+            "segment": "セグメント",
+            "select": "選択",
+            "switcher": "スイッチャー",
+            "timeInput": "時間入力",
+            "upload": "アップロード"
+        },
+        "uiComponentsNavigation": {
+            "navigation": "ナビゲーション",
+            "dropdown": "ドロップダウン",
+            "menu": "メニュー",
+            "pagination": "ページネーション",
+            "steps": "ステップ",
+            "tabs": "タブ"
+        },
+        "uiComponentsGraph": {
+            "graph": "グラフ",
+            "charts": "チャート",
+            "maps": "地図"
+        },
+        "pages": {
+            "pages": "ページ",
+            "welcome": "ようこそ",
+            "accessDenied": "アクセス拒否"
+        },
+        "authentication": {
+            "authentication": "認証",
+            "signIn": "ログイン",
+            "signInSimple": "シンプル",
+            "signInSide": "サイド",
+            "signInCover": "カバー",
+            "signUp": "登録",
+            "signUpSimple": "シンプル",
+            "signUpSide": "サイド",
+            "signUpCover": "カバー",
+            "forgotPassword": "パスワードを忘れた",
+            "forgotPasswordSimple": "シンプル",
+            "forgotPasswordSide": "サイド",
+            "forgotPasswordCover": "カバー",
+            "resetPassword": "パスワードをリセット",
+            "resetPasswordSimple": "シンプル",
+            "resetPasswordSide": "サイド",
+            "resetPasswordCover": "カバー"
+        },
+        "docs": {
+            "guide": "ガイド",
+            "documentation": "ドキュメンテーション",
+            "sharedComponentDoc": "共有コンポーネント",
+            "utilsDoc": "ユーティリティ",
+            "changeLog": "変更ログ"
+        }
+    }
+}
